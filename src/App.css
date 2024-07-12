@@ -1,0 +1,43 @@
+body {
+  background: url("./components/Assets/pexels-shonejai-445753-1227511.jpg");
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  border: 15px solid #b6b5b5;
+  background: url("./components/Assets/istockphoto-1282210592-612x612.jpg");
+border-radius: 20px;
+width: 550px;
+
+
+}
+
+.g-btn {
+  width: 100% !important;
+  height: 40px !important;
+  line-height: 40px !important;
+  font-size: 15px !important;
+}
+.g-btn > div,
+.g-btn > div > svg {
+  width: 40px !important;
+  height: 38px !important;
+}
+.mb-3{
+  text-align: center;
+  
+}
+.gap-2{
+  margin-inline-end: 17px;
+  margin-inline-start: 184px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: underline;
+}
